@@ -1,5 +1,6 @@
 这是一个出现异常的最小复制品。
 
+https://github.com/unocss/unocss/issues/3472
 
 ## 系统及环境信息
 
